@@ -1,0 +1,46 @@
+* {
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+
+
+#calculator {
+    margin: 30px 300px;
+    width: 412px;
+    /* margin: 1px; */
+    /* border: solid black; */
+    /* background-color: black; */
+}
+
+#calculator h1 {
+    color: darkblue;
+    text-align: center;
+}
+
+#screen {
+    width: 412px;
+    height: 30px;
+    margin: 5px 0px;
+}
+
+.but1 {
+    width: 100px;
+    height: 50px;
+    margin: 2px 0px;
+    padding: 0px;
+    /* border: 0px; */
+    font-size: large;
+    font-weight: bold;
+}
+
+.but2 {
+    width: 204px;
+    height: 50px;
+    margin: 2px 0px;
+    padding: 0px;
+    /* border: 0px; */
+    font-size: large;
+    font-weight: bold;
+}
